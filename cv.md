@@ -1,12 +1,11 @@
 # Jeongok Lee
 
-#### (preferred name : Olivia)
+preferred name : Olivia
 
----
-
-Dublin, Ireland
-jeongoklee0108@gmail.com
-ok-olly
+## Contacts
+* **Phone:** +353
+* **E-mail:** jeongoklee0108@gmail.com
+* **GitHub:** ok-olly
 
 ## About me
 I have been working in fashion since graduating from university. I am eager to learn Front-End Development.
@@ -30,10 +29,10 @@ if (savedUsername === null) {
 }
 ```
 ## Education 
-The Rolling Scopes School (Front-end/JavaScript)
-Busan IT Job Training Center (Back-end/Java, AWS)
+* The Rolling Scopes School (Front-end/JavaScript)
+* Busan IT Job Training Center (Back-end/Java, AWS)
 
 ## Language
-Korean - Native
-English - Upper Intermediate
-French - Elementary
+* Korean - Native
+* English - Upper Intermediate
+* French - Elementary
