@@ -69,6 +69,7 @@ h2 {
 
 pre {
     margin-left: -180px;
+    overflow: scroll;
 }
 
 .footer-nav {
@@ -81,7 +82,11 @@ pre {
     align-items: center;
 }
 
-.footer-nav ul > li > a {
+a {
     text-decoration: none;
     color: black;
+}
+
+.project-example {
+    margin-left: 40px;
 }
