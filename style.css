@@ -66,3 +66,22 @@ h2 {
         width: 100%;
     }
 }
+
+pre {
+    margin-left: -180px;
+}
+
+.footer-nav {
+    display: flex;
+    background-color: rgba(131, 194, 29, 0.6);
+}
+
+.footer-nav ul > li {
+    display: inline;
+    align-items: center;
+}
+
+.footer-nav ul > li > a {
+    text-decoration: none;
+    color: black;
+}
