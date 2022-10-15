@@ -69,7 +69,7 @@ h2 {
 
 pre {
     margin-left: -180px;
-    overflow: scroll;
+    overflow: auto;
 }
 
 .footer-nav {
